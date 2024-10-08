@@ -5,4 +5,4 @@
 <script src="https://cdn.ckeditor.com/ckeditor5/41.2.1/classic/ckeditor.js"></script>
 
 {{--  @vite('resources/css/app.css')  --}}
-<link rel="stylesheet" href="{{ asset('build/assets/app-BP9jChYv.css') }}">
+<link rel="stylesheet" href="{{ asset('build/assets/app-BVsHYAz8.css') }}">
